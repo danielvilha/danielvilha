@@ -2,7 +2,7 @@
 
 ➣ **My name is Daniel and I’m an Android developer, but I know a little bit about Swifth.**
 
-- 🔭 I'm currently studying for Google developer certification.
+- 🔭 Always studying Android development, and studyng to get the Google developer certification.
 - 💬 Did you ever dance with the devil in the pale moonlight?
 - ⚡ Fun fact: Halloween was derived from an Irish festival called Samhain.
 
