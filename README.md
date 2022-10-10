@@ -1,11 +1,44 @@
 ### Hello there 👋
 
-➣ **My name is Daniel and I’m an Android developer, but I know a little bit about Swifth.**
+**I'm Daniel Vilha. I’m an Senior Android developer working in a company during the day, at night I am the dead batteries in your smoke detector!.**
 
-- 🔭 Always studying Android development, and studyng to get the Google developer certification.
+
+### A quick introduction
+
+- 🔭 Always studying Android development.
+- 🌱 I need to study more to get my Google developer certification.
+- 💼 I'm working on a company here in Ireland.
 - 💬 Did you ever dance with the devil in the pale moonlight?
-- ⚡ Fun fact: Halloween was derived from an Irish festival called Samhain.
+- 🤟🏻 It depends on my state of humor, but I really like Rock n' Roll!
+- 😝 Fun-Fact: Halloween was derived from an Irish festival called Samhain.
 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-freitas-vilha//)](https://www.linkedin.com/in/daniel-freitas-vilha)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaillogoColor=whitelink=mailto:danielvilha@gmail.com)](mailto:danielvilha@gmail.com)
+### Connect, Follow
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vilha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielvilha@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielvilha/)
+
+
+### Spotify Playing
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12143430358)
+
+
+### Languages, Frameworks, Tools
+
+<p float="left">
+<img style="padding:5px;" align="center" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png">
+<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">
+<img style="padding:5px;" align="center" alt="Material-Design" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png">
+<img style="padding:5px;" align="center" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
+<img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+</p>
+
+
+### GitHub Stats 
+
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=danielvilha&show_icons=true&theme=dracula)](https://github.com/danielvilha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvilha&layout=compact&theme=dracula)](https://github.com/danielvilha/github-readme-stats)
