@@ -42,3 +42,5 @@
 
 [![Daniel's Github stats](https://github-readme-stats.vercel.app/api?username=danielvilha&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvilha&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/username=danielvilha&custom_title=Top%20Languages&layout=compact&theme=dracula&include_forks=false&exclude_repo=EWU-CSCD,customized-unix-terminal,github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
